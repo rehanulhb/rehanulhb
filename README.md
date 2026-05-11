@@ -5,10 +5,17 @@
 
 - 📫 How to reach me **rehanulh@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/rehanul-hasan-bappy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rehanul-hasan-bappy/" height="30" width="40" /></a>
-<a href="https://www.facebook.com/rehanul.bappy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/rehanul.bappy/" height="30" width="40" /></a>
+## Connect with Me
+
+<p align="center">
+  <!-- LinkedIn -->
+  <a target="_blank" href="https://www.linkedin.com/in/rehanul-hasan-bappy/">
+    <img src="https://img.shields.io/badge/🔗%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <!-- Email -->
+  <a target="_blank" href="mailto:rehanulh@gmail.com">
+    <img src="https://img.shields.io/badge/📧%20Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
 ## 🚀 Tech Stack & Skills
